@@ -1,1 +1,2 @@
 # EDA-of-AirBnB-Bristol-Listings-And-Visualization-via-Tableau
+The following is an Exploratory Data Analysis (EDA) performed on a file listings.csv extracted from the Airbnb website. The main objective is extracting insights from raw data but the more specific objectives of this study are to pinpoint the most popular neighborhoods by looking at metrics like the number of listings, reviews, and types of accommodation offered. And in addition to this, scale the prices of different rental properties and to understand the availability of different kinds of rents in Bristol, UK. 
